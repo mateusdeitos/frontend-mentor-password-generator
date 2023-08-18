@@ -31,7 +31,7 @@
     height: 100vh;
     gap: 24px;
     max-width: 540px;
-    padding: 64px 16px;
+    padding: 32px 16px;
     margin: 0 auto;
   }
 

@@ -42,7 +42,7 @@
     gap: 8px;
     width: 100%;
     background-color: var(--dark-grey);
-    padding: 16px;
+    padding: 16px 32px;
   }
 
   span {
